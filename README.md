@@ -1,1 +1,1 @@
-# haskell-maze
+# my-project
